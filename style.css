@@ -1,0 +1,37 @@
+*{
+    margin : 0px 0px;
+    padding : 0px 0px;
+    text-transform: uppercase;
+    font-weight : bold;
+    
+}
+h3 span{
+    font-size: 24px;
+}
+h3{
+    font-size : 24px;
+    margin-top: 40px;
+}
+h3, h5{
+    text-align: center;
+}
+.container{
+    max-width : 1360px;
+}
+span{
+    font-size: 20px;
+    color : rgb(197, 50, 13);
+}
+.box{
+   padding : 20px 20px;
+    background : linear-gradient(rgb(250, 246, 246), rgb(235, 235, 235));
+    box-shadow: 5px 10px 3px rgba(187, 183, 183, 0.945);
+    margin-top : 40px;
+
+}
+ol{
+    padding-left: 30px;
+}
+li{
+    font-size : 18px;
+}
